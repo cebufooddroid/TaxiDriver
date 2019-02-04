@@ -8,8 +8,8 @@ WHY _Taxi Driver_? This project is build by cab driver -meaning no expierince of
 WHY _I CHOICE THIS_? I have expierince for more than 5 years for may peso net business build in may own expereminting. 
 I need something challange to Build APPS to continue what I love to do. 
 
-# Project About
-
+# License
+See [License!](https://github.com/cebufooddroid/TaxiDriver/blob/master-branch-1/LICENSE)
 
 
 
